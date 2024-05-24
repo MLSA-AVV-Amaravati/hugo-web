@@ -1,6 +1,6 @@
-title = "Notre-Dame de Paris"
+title = "MLSA AVV Amaravati"
 baseURL = "/hugo-website"
-languageCode = "en-us"
+languageCode = "en-uk"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
 
@@ -20,7 +20,7 @@ enableRobotsTXT = true
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
